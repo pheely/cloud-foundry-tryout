@@ -13,3 +13,8 @@ Instead, you can do the following two things:
 ![03](images/03.png)
 
 2. Import the source code into STS using Import ... > Gradle > Existing Gradle Project
+
+Note: see the following diagram for the meanings of some fields.
+
+![04](images/04.png)
+
